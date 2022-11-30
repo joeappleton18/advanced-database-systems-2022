@@ -44,7 +44,7 @@ Notice, in the above architectural digram, we have lambda functions (denoted by 
 ![](./deployment-diagram.png)
 > > The infrastructure we are setting up this week - utilising Cyclic  and MongoDB Atlas.
 
-Rather than use AWS directly, we are going to be utilising two services that simplify its infrastructure - [Cyclic](cyclic.sh) and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register). Cyclic allows us to quickly deploy applications to a lightweight, secure, virtualised Unix container. Cyclic allows us to deploy applications by simply pushing our codebase to a main or master branch on a GitHub repository. While Cyclic will take care of running our node application, we'll use MongoDB Atlas to host our database. MongoDB atlas if a service offered by MongoDB which simplifies the process of provisioning and deploying cloud instances of MongoDB.
+Rather than use AWS directly, we are going to be utilising two services that simplify its infrastructure - [Cyclic](https://www.cyclic.sh/) and [MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register). Cyclic allows us to quickly deploy applications to a lightweight, secure, virtualised Unix container. Cyclic allows us to deploy applications by simply pushing our codebase to a main or master branch on a GitHub repository. While Cyclic will take care of running our node application, we'll use MongoDB Atlas to host our database. MongoDB atlas if a service offered by MongoDB which simplifies the process of provisioning and deploying cloud instances of MongoDB.
 
 ## Practical Session
 
@@ -177,7 +177,7 @@ git push origin master
 
 - We are now ready to deploy our application to Cyclic
 
-0. [Set up a new Cyclic Account](https://cyclc.sh)
+0. [Set up a new Cyclic Account](https://cyclic.sh)
 
 1. [Go to Cyclic - Deploy New App](https://app.cyclic.sh/#/deploy?intro=true)
 
