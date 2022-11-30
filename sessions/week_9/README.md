@@ -117,8 +117,8 @@ const client = new MongoClient(
 - If all has gone well you should be able to seed production and development databases, by running:
 
 ```shell
-npm run seed
-npm run seedDevelopment
+npm run seed      // seeds development 
+npm run seedProduction   // seeds production
 ```
 
 ## Task 1 - Setting up Atlas DB and Seeding the Production Database
