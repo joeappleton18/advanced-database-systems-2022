@@ -72,11 +72,11 @@ module.exports = {
         children: ["/sessions/week_9/lecture", "/sessions/week_9/"],
       },
 
-      // {
-      //   title: "Week 10 - Further Mongo Relations and Dynamic JavaScript",
-      //   collapsable: true,
-      //   children: ["/sessions/week_10/lecture", "/sessions/week_10/"],
-      // },
+      {
+        title: "Week 10 - Further Mongo Relations and Dynamic JavaScript",
+        collapsable: true,
+        children: ["/sessions/week_10/lecture", "/sessions/week_10/"],
+      },
     ],
   },
 };
