@@ -94,9 +94,9 @@ use('wine');
 
 db.tastings.createIndex({title: 'text', description: 'text'});
 db.tastings.find(
-   { $text: { $search: "/Table Wine/" } },
+   { $text: { $search: "/itrus and dried sage/" } },
    { score: { $meta: "textScore" } }
-).sort( { score: { $meta: "textScore" } } )
+).sort( { score: { $meta: "textScore" } } ).limit(400)
 ```
 
 > > Performing natural text search
@@ -218,9 +218,9 @@ Next, as usual, we need to link a route to this new controller function. In app.
 ...
 ```
 
-> > app.js, notice how we use tastingApiController to identify that this controller is for our api
+> > `app.js`, notice how we use tastingApiController to identify that this controller is for our api
 
-- If all has gone well, you can issue a request to the API by simply visiting 'http://localhost:your port/api/search-tastings?search=Table Wine'. You should see a raw JSON output.
+- If all has gone well, you can issue a request to the API by simply visiting `http://localhost:<your port>/api/`search-tastings?search=Table Wine'. You should see a raw JSON output.
 
 ## Task 2 - Set up the search tasting API route
 
