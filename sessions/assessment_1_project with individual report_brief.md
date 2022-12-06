@@ -76,17 +76,7 @@ Identify in what ways your application is secure and scalable.
 Bring the document to a close by tying together the process, and provide me with a brief reflective account of the entire project.
 
 
-### Living CV
 
-As part of the University's Work Ready, Future Ready strategy, you will be expected to build a professional, Living CV as you successfully engage and pass each module of your degree.  
-
-The Living CV outputs evidenced on completion of this assessment are: 
-
-- I can deliver a full-stack, data-driven web application 
-- I can use version control to mange a project 
-- I understand the difference between different types of databases 
-
-Please add these to your CV via the Living CV builder platform on Solent Futures Online Solent Futures Online 
 
 
 
@@ -102,6 +92,20 @@ You will be assessed on the quality of your solution. The documentation, however
 | You have shown critical reflection and generated many critical insights.                                                                                                                                                        | You have shown sustained reflection and self‐evaluation and generated a number of critical insights.                                                                                                       | You have shown satisfactory self‐evaluation and reflection with some critical insights.                                                     | Your reflection contains limited incites and seems incomplete or not relevant to the project.                            | Does not meet threshold |
 | **Quality of Proposed Solution**                                                                                                                                                                                                |                                                                                                                                                                                                            |                                                                                                                                             |                                                                                                                          |                         |
 | You have shown an understanding of current industry practice. Your solution, in many aspects, has followed a professional workflow and you have selected and applied appropriate methods to solve complex, unfamiliar problems. | You have show awareness of of current industry practice. Your workflow in, some aspects, is professional and you have selected and applied appropriate methods to solve some complex, unfamiliar problems. | You have shown a basic level of competence in all creating your application and it is fully functional. You have used appropriate methods.  | You have shown a basic level of competence in all creating your application and it mostly functional.                    | Does not meet threshold |
+
+
+### Living CV
+
+As part of the University's Work Ready, Future Ready strategy, you will be expected to build a professional, Living CV as you successfully engage and pass each module of your degree.  
+
+The Living CV outputs evidenced on completion of this assessment are: 
+
+- I can deliver a full-stack, data-driven web application 
+- I can use version control to mange a project 
+- I understand the difference between different types of databases 
+
+Please add these to your CV via the Living CV builder platform on Solent Futures Online Solent Futures Online 
+
 
 ### Learning Outcomes
 
