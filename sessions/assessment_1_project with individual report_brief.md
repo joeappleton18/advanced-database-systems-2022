@@ -75,6 +75,21 @@ Identify in what ways your application is secure and scalable.
 
 Bring the document to a close by tying together the process, and provide me with a brief reflective account of the entire project.
 
+
+### Living CV
+
+As part of the University's Work Ready, Future Ready strategy, you will be expected to build a professional, Living CV as you successfully engage and pass each module of your degree.  
+
+The Living CV outputs evidenced on completion of this assessment are: 
+
+- I can deliver a full-stack, data-driven web application 
+- I can use version control to mange a project 
+- I understand the difference between different types of databases 
+
+Please add these to your CV via the Living CV builder platform on Solent Futures Online Solent Futures Online 
+
+
+
 ## Assessment Criteria
 
 You will be assessed on the quality of your solution. The documentation, however, is important, as it allows me to understand how your solution functions.
