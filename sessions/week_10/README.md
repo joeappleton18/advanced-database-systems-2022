@@ -94,7 +94,7 @@ use('wine');
 
 db.tastings.createIndex({title: 'text', description: 'text'});
 db.tastings.find(
-   { $text: { $search: "/itrus and dried sage/" } },
+   { $text: { $search: "/citrus and dried sage/" } },
    { score: { $meta: "textScore" } }
 ).sort( { score: { $meta: "textScore" } } ).limit(400)
 ```
