@@ -1,5 +1,12 @@
 # Week 10 (Further Mongo Relations and Dynamic JavaScript)
 
+## Video Practical
+
+Due to having missed a practical, I have made a video version of this week's practical session.
+
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=82e1c782-ea6a-4cc1-b135-af64008f62ff&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 :::tip session dependencies
 
 **Session Dependencies**
