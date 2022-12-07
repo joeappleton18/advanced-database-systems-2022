@@ -97,6 +97,7 @@ db.tastings.find(
    { $text: { $search: "/citrus and dried sage/" } },
    { score: { $meta: "textScore" } }
 ).sort( { score: { $meta: "textScore" } } ).limit(400)
+
 ```
 
 > > Performing natural text search
