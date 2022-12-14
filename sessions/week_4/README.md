@@ -1,5 +1,11 @@
 # Week 4 - Completing the MVC stack
 
+## Video Practical
+
+The below video goes over the practical tasks for this week:
+
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=1b52e3e0-5660-4fca-af12-af6b0079f87a&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+
 :::tip
 
 At this stage you should be starting to think about your application that you will be working on for your assessment. Recall, we are just trying to create a simple proof of concept. What is key, you will need to demonstrate that you can pull together the basic elements of a data driven web application to present a simple solution to clearly defined problem.
