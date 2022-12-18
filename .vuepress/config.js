@@ -22,6 +22,12 @@ module.exports = {
       },
 
       {
+        title: "All Video Practicals",
+        collapsable: true,
+        children: ["/video-practicals"],
+      },
+
+      {
         title: "Week 1 - Introduction to NodeJS and MongoDB",
         collapsable: true,
         children: ["sessions/week_1/lecture", "/sessions/week_1/"],
