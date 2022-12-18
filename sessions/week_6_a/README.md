@@ -3,8 +3,7 @@
 ## Video Practical
 
 The below video goes over the practical tasks for this week:
-
-<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=0734ba46-2924-4080-8bce-af6f00d5b1a2&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
+<iframe src="https://solent.cloud.panopto.eu/Panopto/Pages/Embed.aspx?id=323dbd90-95c8-412f-8d01-af6f00eead34&autoplay=false&offerviewer=true&showtitle=true&showbrand=true&captions=true&interactivity=all" height="405" width="720" style="border: 1px solid #464646;" allowfullscreen allow="autoplay"></iframe>
 
 :::tip sessions dependencies
 
